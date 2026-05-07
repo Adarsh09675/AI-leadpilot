@@ -33,8 +33,8 @@ This system is built for **Aviara Labs** as a demonstration of production-ready 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/ai-leadpilot.git
-cd ai-leadpilot
+git clone https://github.com/Adarsh09675/AI-leadpilot.git
+cd AI-leadpilot
 ```
 
 ### 2. Configure Environment Variables
