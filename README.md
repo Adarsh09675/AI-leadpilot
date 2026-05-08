@@ -1,7 +1,7 @@
 # 🚀 AI LeadPilot: Production-Grade Lead Automation System
 
 ## 🌟 Overview
-**AI LeadPilot** is a state-of-the-art automation pipeline designed to handle the full lifecycle of an incoming lead. It combines the orchestration power of **n8n** with a high-performance **FastAPI** backend and **Google Gemini 1.5 Pro** to transform raw lead data into actionable business intelligence.
+**AI LeadPilot** is a state-of-the-art automation pipeline designed to handle the full lifecycle of an incoming lead. It combines the orchestration power of **n8n** with a high-performance **FastAPI** backend and **Google Gemini AI** to transform raw lead data into actionable business intelligence.
 
 This system is built for **Aviara Labs** as a demonstration of production-ready AI automation, focusing on scalability, reliability, and clean engineering principles.
 
